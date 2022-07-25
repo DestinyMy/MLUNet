@@ -1,0 +1,457 @@
+2021-03-30 11:20:50 PM Training accuracy top1:99.8100, top5:100.0000, loss:0.010555
+2021-03-30 11:20:51 PM valid accuracy top1:92.5100, top5:99.6400, loss:0.312151
+2021-03-30 11:21:08 PM Model Name: RCB-k3
+2021-03-30 11:21:08 PM Model Accuracy: 92.6300, Model infer time: 1.587556 ms, Model Parameters: 0.4464 MB, Model Flops: 201.265800 MB
+
+2021-03-30 11:48:47 PM Training accuracy top1:99.9540, top5:100.0000, loss:0.003065
+2021-03-30 11:48:48 PM valid accuracy top1:92.3100, top5:99.5800, loss:0.344420
+2021-03-30 11:49:05 PM Model Name: RCB-k5
+2021-03-30 11:49:05 PM Model Accuracy: 92.3500, Model infer time: 1.571067 ms, Model Parameters: 1.2328 MB, Model Flops: 553.587300 MB
+
+2021-03-31 12:13:41 AM Training accuracy top1:99.3240, top5:100.0000, loss:0.024893
+2021-03-31 12:13:42 AM valid accuracy top1:92.0100, top5:99.6300, loss:0.313634
+2021-03-31 12:14:08 AM Model Name: RCB-k1*3+3*1
+2021-03-31 12:14:08 AM Model Accuracy: 92.0800, Model infer time: 2.488203 ms, Model Parameters: 0.3005 MB, Model Flops: 136.237700 MB
+
+2021-03-31 12:52:29 AM Training accuracy top1:99.8640, top5:99.9980, loss:0.006819
+2021-03-31 12:52:30 AM valid accuracy top1:92.1700, top5:99.7400, loss:0.364483
+2021-03-31 12:52:58 AM Model Name: RCB-k1*5+5*1
+2021-03-31 12:52:58 AM Model Accuracy: 92.1700, Model infer time: 2.679148 ms, Model Parameters: 0.4971 MB, Model Flops: 224.318100 MB
+
+2021-03-31 01:19:41 AM Training accuracy top1:99.8120, top5:100.0000, loss:0.011138
+2021-03-31 01:19:42 AM valid accuracy top1:92.7100, top5:99.7900, loss:0.289628
+2021-03-31 01:19:59 AM Model Name: CBR-k3
+2021-03-31 01:19:59 AM Model Accuracy: 92.8300, Model infer time: 1.571928 ms, Model Parameters: 0.4464 MB, Model Flops: 201.265800 MB
+
+2021-03-31 01:47:35 AM Training accuracy top1:99.9440, top5:100.0000, loss:0.003771
+2021-03-31 01:47:36 AM valid accuracy top1:92.1400, top5:99.6300, loss:0.346270
+2021-03-31 01:47:53 AM Model Name: CBR-k5
+2021-03-31 01:47:53 AM Model Accuracy: 92.1800, Model infer time: 1.556463 ms, Model Parameters: 1.2328 MB, Model Flops: 553.587300 MB
+
+2021-03-31 02:12:24 AM Training accuracy top1:99.3060, top5:99.9980, loss:0.026558
+2021-03-31 02:12:25 AM valid accuracy top1:91.5600, top5:99.8000, loss:0.316036
+2021-03-31 02:12:51 AM Model Name: CBR-k1*3+3*1
+2021-03-31 02:12:51 AM Model Accuracy: 91.6600, Model infer time: 2.477310 ms, Model Parameters: 0.3005 MB, Model Flops: 136.237700 MB
+
+2021-03-31 02:51:06 AM Training accuracy top1:99.8260, top5:99.9980, loss:0.007796
+2021-03-31 02:51:07 AM valid accuracy top1:92.3700, top5:99.6800, loss:0.332996
+2021-03-31 02:51:35 AM Model Name: CBR-k1*5+5*1
+2021-03-31 02:51:35 AM Model Accuracy: 92.3900, Model infer time: 2.684775 ms, Model Parameters: 0.4971 MB, Model Flops: 224.318100 MB
+
+2021-03-31 03:10:15 AM Training accuracy top1:99.8640, top5:100.0000, loss:0.007124
+2021-03-31 03:10:16 AM valid accuracy top1:91.7100, top5:99.5500, loss:0.377490
+2021-03-31 03:10:34 AM Model Name: DilRCB-k3-d2
+2021-03-31 03:10:34 AM Model Accuracy: 91.7400, Model infer time: 1.648560 ms, Model Parameters: 0.4464 MB, Model Flops: 201.265800 MB
+
+2021-03-31 03:32:07 AM Training accuracy top1:99.7060, top5:100.0000, loss:0.011077
+2021-03-31 03:32:08 AM valid accuracy top1:89.9900, top5:99.4600, loss:0.427738
+2021-03-31 03:32:25 AM Model Name: DilRCB-k3-d3
+2021-03-31 03:32:25 AM Model Accuracy: 90.1200, Model infer time: 1.592817 ms, Model Parameters: 0.4464 MB, Model Flops: 201.265800 MB
+
+2021-03-31 04:18:53 AM Training accuracy top1:99.9040, top5:100.0000, loss:0.004216
+2021-03-31 04:18:54 AM valid accuracy top1:90.6900, top5:99.3800, loss:0.434449
+2021-03-31 04:19:12 AM Model Name: DilRCB-k5-d2
+2021-03-31 04:19:12 AM Model Accuracy: 90.7500, Model infer time: 1.627740 ms, Model Parameters: 1.2328 MB, Model Flops: 553.587300 MB
+
+2021-03-31 05:06:54 AM Training accuracy top1:99.8460, top5:100.0000, loss:0.006284
+2021-03-31 05:06:56 AM valid accuracy top1:88.8600, top5:99.2100, loss:0.547813
+2021-03-31 05:07:13 AM Model Name: DilRCB-k5-d3
+2021-03-31 05:07:13 AM Model Accuracy: 88.8900, Model infer time: 1.589516 ms, Model Parameters: 1.2328 MB, Model Flops: 553.587300 MB
+
+2021-03-31 05:25:54 AM Training accuracy top1:99.8240, top5:100.0000, loss:0.008508
+2021-03-31 05:25:55 AM valid accuracy top1:91.6400, top5:99.6500, loss:0.362532
+2021-03-31 05:26:12 AM Model Name: DilCBR-k3-d2
+2021-03-31 05:26:12 AM Model Accuracy: 91.7200, Model infer time: 1.605472 ms, Model Parameters: 0.4464 MB, Model Flops: 201.265800 MB
+
+2021-03-31 05:47:47 AM Training accuracy top1:99.6960, top5:100.0000, loss:0.012862
+2021-03-31 05:47:48 AM valid accuracy top1:89.8300, top5:99.4200, loss:0.423108
+2021-03-31 05:48:06 AM Model Name: DilCBR-k3-d3
+2021-03-31 05:48:06 AM Model Accuracy: 90.0800, Model infer time: 1.599232 ms, Model Parameters: 0.4464 MB, Model Flops: 201.265800 MB
+
+2021-03-31 06:34:30 AM Training accuracy top1:99.9120, top5:100.0000, loss:0.004761
+2021-03-31 06:34:31 AM valid accuracy top1:90.7600, top5:99.4500, loss:0.425557
+2021-03-31 06:34:48 AM Model Name: DilCBR-k5-d2
+2021-03-31 06:34:48 AM Model Accuracy: 90.7600, Model infer time: 1.555020 ms, Model Parameters: 1.2328 MB, Model Flops: 553.587300 MB
+
+2021-03-31 07:22:30 AM Training accuracy top1:99.8080, top5:100.0000, loss:0.008151
+2021-03-31 07:22:32 AM valid accuracy top1:88.7300, top5:99.5200, loss:0.527572
+2021-03-31 07:22:49 AM Model Name: DilCBR-k5-d3
+2021-03-31 07:22:49 AM Model Accuracy: 88.7400, Model infer time: 1.610422 ms, Model Parameters: 1.2328 MB, Model Flops: 553.587300 MB
+
+2021-03-31 07:43:49 AM Training accuracy top1:96.4960, top5:99.9700, loss:0.107618
+2021-03-31 07:43:50 AM valid accuracy top1:90.2000, top5:99.7600, loss:0.329598
+2021-03-31 07:44:17 AM Model Name: SepRCB-k3-d1
+2021-03-31 07:44:17 AM Model Accuracy: 90.2000, Model infer time: 2.591849 ms, Model Parameters: 0.0632 MB, Model Flops: 29.921900 MB
+
+2021-03-31 08:05:13 AM Training accuracy top1:95.1820, top5:99.9400, loss:0.142586
+2021-03-31 08:05:14 AM valid accuracy top1:88.4000, top5:99.4900, loss:0.385775
+2021-03-31 08:05:41 AM Model Name: SepRCB-k3-d2
+2021-03-31 08:05:41 AM Model Accuracy: 88.5900, Model infer time: 2.568863 ms, Model Parameters: 0.0632 MB, Model Flops: 29.921900 MB
+
+2021-03-31 08:26:35 AM Training accuracy top1:93.9580, top5:99.8920, loss:0.179072
+2021-03-31 08:26:36 AM valid accuracy top1:87.6800, top5:99.4600, loss:0.385415
+2021-03-31 08:27:03 AM Model Name: SepRCB-k3-d3
+2021-03-31 08:27:03 AM Model Accuracy: 87.7400, Model infer time: 2.619173 ms, Model Parameters: 0.0632 MB, Model Flops: 29.921900 MB
+
+2021-03-31 08:51:15 AM Training accuracy top1:97.7320, top5:99.9900, loss:0.068940
+2021-03-31 08:51:16 AM valid accuracy top1:90.2200, top5:99.6100, loss:0.354521
+2021-03-31 08:51:43 AM Model Name: SepRCB-k5-d1
+2021-03-31 08:51:43 AM Model Accuracy: 90.3000, Model infer time: 2.554653 ms, Model Parameters: 0.0755 MB, Model Flops: 35.426900 MB
+
+2021-03-31 09:15:43 AM Training accuracy top1:95.5220, top5:99.9600, loss:0.127531
+2021-03-31 09:15:44 AM valid accuracy top1:87.5300, top5:99.4800, loss:0.412705
+2021-03-31 09:16:11 AM Model Name: SepRCB-k5-d2
+2021-03-31 09:16:11 AM Model Accuracy: 87.6800, Model infer time: 2.574758 ms, Model Parameters: 0.0755 MB, Model Flops: 35.426900 MB
+
+2021-03-31 09:40:02 AM Training accuracy top1:93.0840, top5:99.8600, loss:0.198895
+2021-03-31 09:40:03 AM valid accuracy top1:86.3100, top5:99.4800, loss:0.442888
+2021-03-31 09:40:31 AM Model Name: SepRCB-k5-d3
+2021-03-31 09:40:31 AM Model Accuracy: 86.3500, Model infer time: 2.658418 ms, Model Parameters: 0.0755 MB, Model Flops: 35.426900 MB
+
+2021-03-31 10:01:29 AM Training accuracy top1:96.3140, top5:99.9620, loss:0.113396
+2021-03-31 10:01:30 AM valid accuracy top1:89.8700, top5:99.7000, loss:0.332179
+2021-03-31 10:01:58 AM Model Name: SepCBR-k3-d1
+2021-03-31 10:01:58 AM Model Accuracy: 89.9000, Model infer time: 2.609681 ms, Model Parameters: 0.0632 MB, Model Flops: 29.921900 MB
+
+2021-03-31 10:22:52 AM Training accuracy top1:95.1480, top5:99.9320, loss:0.144387
+2021-03-31 10:22:53 AM valid accuracy top1:88.2600, top5:99.6300, loss:0.375231
+2021-03-31 10:23:20 AM Model Name: SepCBR-k3-d2
+2021-03-31 10:23:20 AM Model Accuracy: 88.4700, Model infer time: 2.584020 ms, Model Parameters: 0.0632 MB, Model Flops: 29.921900 MB
+
+2021-03-31 10:44:13 AM Training accuracy top1:93.5760, top5:99.8760, loss:0.188495
+2021-03-31 10:44:14 AM valid accuracy top1:87.7500, top5:99.5500, loss:0.383506
+2021-03-31 10:44:41 AM Model Name: SepCBR-k3-d3
+2021-03-31 10:44:41 AM Model Accuracy: 87.8600, Model infer time: 2.584713 ms, Model Parameters: 0.0632 MB, Model Flops: 29.921900 MB
+
+2021-03-31 11:08:58 AM Training accuracy top1:97.5220, top5:99.9740, loss:0.077470
+2021-03-31 11:08:59 AM valid accuracy top1:89.8500, top5:99.6000, loss:0.354577
+2021-03-31 11:09:26 AM Model Name: SepCBR-k5-d1
+2021-03-31 11:09:26 AM Model Accuracy: 90.1300, Model infer time: 2.624738 ms, Model Parameters: 0.0755 MB, Model Flops: 35.426900 MB
+
+2021-03-31 11:33:30 AM Training accuracy top1:95.5560, top5:99.9420, loss:0.131445
+2021-03-31 11:33:31 AM valid accuracy top1:87.9800, top5:99.5400, loss:0.396590
+2021-03-31 11:33:58 AM Model Name: SepCBR-k5-d2
+2021-03-31 11:33:58 AM Model Accuracy: 88.1000, Model infer time: 2.537942 ms, Model Parameters: 0.0755 MB, Model Flops: 35.426900 MB
+
+2021-03-31 11:57:49 AM Training accuracy top1:93.4700, top5:99.8700, loss:0.190743
+2021-03-31 11:57:49 AM valid accuracy top1:86.6700, top5:99.4300, loss:0.436543
+2021-03-31 11:58:17 AM Model Name: SepCBR-k5-d3
+2021-03-31 11:58:17 AM Model Accuracy: 86.6800, Model infer time: 2.591658 ms, Model Parameters: 0.0755 MB, Model Flops: 35.426900 MB
+
+2021-03-31 12:13:42 PM Training accuracy top1:95.6580, top5:99.9380, loss:0.128900
+2021-03-31 12:13:43 PM valid accuracy top1:88.2300, top5:99.4800, loss:0.382087
+2021-03-31 12:14:02 PM Model Name: DARTs-Dil-k3-d2
+2021-03-31 12:14:02 PM Model Accuracy: 88.4000, Model infer time: 1.807488 ms, Model Parameters: 0.0601 MB, Model Flops: 28.201600 MB
+
+2021-03-31 12:29:26 PM Training accuracy top1:94.3080, top5:99.8920, loss:0.169563
+2021-03-31 12:29:27 PM valid accuracy top1:87.5200, top5:99.4600, loss:0.393291
+2021-03-31 12:29:46 PM Model Name: DARTs-Dil-k3-d3
+2021-03-31 12:29:46 PM Model Accuracy: 87.6300, Model infer time: 1.828940 ms, Model Parameters: 0.0601 MB, Model Flops: 28.201600 MB
+
+2021-03-31 12:48:41 PM Training accuracy top1:95.9700, top5:99.9620, loss:0.121092
+2021-03-31 12:48:42 PM valid accuracy top1:87.4100, top5:99.5400, loss:0.417237
+2021-03-31 12:49:02 PM Model Name: DARTs-Dil-k5-d2
+2021-03-31 12:49:02 PM Model Accuracy: 87.5400, Model infer time: 1.853843 ms, Model Parameters: 0.0724 MB, Model Flops: 33.706600 MB
+
+2021-03-31 01:07:48 PM Training accuracy top1:93.3820, top5:99.8620, loss:0.194269
+2021-03-31 01:07:49 PM valid accuracy top1:85.8300, top5:99.2500, loss:0.453059
+2021-03-31 01:08:08 PM Model Name: DARTs-Dil-k5-d3
+2021-03-31 01:08:08 PM Model Accuracy: 85.9500, Model infer time: 1.804799 ms, Model Parameters: 0.0724 MB, Model Flops: 33.706600 MB
+
+2021-03-31 01:34:55 PM Training accuracy top1:98.2520, top5:99.9880, loss:0.055251
+2021-03-31 01:34:55 PM valid accuracy top1:90.5500, top5:99.6900, loss:0.335340
+2021-03-31 01:35:29 PM Model Name: DARTs-Sep-k3-d1
+2021-03-31 01:35:29 PM Model Accuracy: 90.9000, Model infer time: 3.204609 ms, Model Parameters: 0.1177 MB, Model Flops: 54.350500 MB
+
+2021-03-31 02:02:11 PM Training accuracy top1:98.4940, top5:99.9880, loss:0.047752
+2021-03-31 02:02:12 PM valid accuracy top1:90.3800, top5:99.4800, loss:0.364445
+2021-03-31 02:02:45 PM Model Name: DARTs-Sep-k3-d2
+2021-03-31 02:02:45 PM Model Accuracy: 90.4100, Model infer time: 3.177247 ms, Model Parameters: 0.1177 MB, Model Flops: 54.350500 MB
+
+2021-03-31 02:29:25 PM Training accuracy top1:97.8040, top5:99.9740, loss:0.065561
+2021-03-31 02:29:26 PM valid accuracy top1:89.7800, top5:99.4500, loss:0.392038
+2021-03-31 02:29:58 PM Model Name: DARTs-Sep-k3-d3
+2021-03-31 02:29:58 PM Model Accuracy: 89.9200, Model infer time: 3.111740 ms, Model Parameters: 0.1177 MB, Model Flops: 54.350500 MB
+
+2021-03-31 03:03:49 PM Training accuracy top1:98.8260, top5:99.9900, loss:0.038424
+2021-03-31 03:03:50 PM valid accuracy top1:90.3500, top5:99.6300, loss:0.369418
+2021-03-31 03:04:22 PM Model Name: DARTs-Sep-k5-d1
+2021-03-31 03:04:22 PM Model Accuracy: 90.4800, Model infer time: 3.097760 ms, Model Parameters: 0.1423 MB, Model Flops: 65.360500 MB
+
+2021-03-31 03:38:00 PM Training accuracy top1:97.7520, top5:99.9740, loss:0.069327
+2021-03-31 03:38:01 PM valid accuracy top1:89.0700, top5:99.5000, loss:0.410572
+2021-03-31 03:38:33 PM Model Name: DARTs-Sep-k5-d2
+2021-03-31 03:38:33 PM Model Accuracy: 89.2100, Model infer time: 3.105113 ms, Model Parameters: 0.1423 MB, Model Flops: 65.360500 MB
+
+2021-03-31 04:12:04 PM Training accuracy top1:96.7980, top5:99.9700, loss:0.096457
+2021-03-31 04:12:05 PM valid accuracy top1:87.6800, top5:99.5100, loss:0.434710
+2021-03-31 04:12:38 PM Model Name: DARTs-Sep-k5-d3
+2021-03-31 04:12:38 PM Model Accuracy: 87.9000, Model infer time: 3.164541 ms, Model Parameters: 0.1423 MB, Model Flops: 65.360500 MB
+
+2021-03-31 05:04:48 PM Training accuracy top1:99.9300, top5:100.0000, loss:0.004647
+2021-03-31 05:04:49 PM valid accuracy top1:93.4100, top5:99.8200, loss:0.279709
+2021-03-31 05:05:19 PM Model Name: rb-k3-d1
+2021-03-31 05:05:19 PM Model Accuracy: 93.5200, Model infer time: 2.872318 ms, Model Parameters: 0.8911 MB, Model Flops: 400.822900 MB
+
+2021-03-31 05:41:09 PM Training accuracy top1:99.9700, top5:100.0000, loss:0.002998
+2021-03-31 05:41:10 PM valid accuracy top1:92.6100, top5:99.6800, loss:0.314512
+2021-03-31 05:41:39 PM Model Name: rb-k3-d2
+2021-03-31 05:41:39 PM Model Accuracy: 92.6100, Model infer time: 2.756681 ms, Model Parameters: 0.8911 MB, Model Flops: 400.822900 MB
+
+2021-03-31 06:23:09 PM Training accuracy top1:99.9480, top5:100.0000, loss:0.003317
+2021-03-31 06:23:10 PM valid accuracy top1:90.9800, top5:99.5700, loss:0.400343
+2021-03-31 06:23:39 PM Model Name: rb-k3-d3
+2021-03-31 06:23:39 PM Model Accuracy: 91.2000, Model infer time: 2.776830 ms, Model Parameters: 0.8911 MB, Model Flops: 400.822900 MB
+
+2021-03-31 07:07:22 PM Training accuracy top1:99.9720, top5:100.0000, loss:0.003108
+2021-03-31 07:07:23 PM valid accuracy top1:92.8200, top5:99.6900, loss:0.308994
+2021-03-31 07:07:53 PM Model Name: rb-k3-d12
+2021-03-31 07:07:53 PM Model Accuracy: 92.9000, Model infer time: 2.822647 ms, Model Parameters: 0.8911 MB, Model Flops: 400.822900 MB
+
+2021-03-31 07:51:36 PM Training accuracy top1:99.9700, top5:100.0000, loss:0.002483
+2021-03-31 07:51:38 PM valid accuracy top1:92.8200, top5:99.7600, loss:0.293466
+2021-03-31 07:52:08 PM Model Name: rb-k3-d21
+2021-03-31 07:52:08 PM Model Accuracy: 92.8500, Model infer time: 2.854257 ms, Model Parameters: 0.8911 MB, Model Flops: 400.822900 MB
+
+2021-03-31 08:46:07 PM Training accuracy top1:99.9820, top5:100.0000, loss:0.001848
+2021-03-31 08:46:09 PM valid accuracy top1:93.0700, top5:99.7200, loss:0.307804
+2021-03-31 08:46:39 PM Model Name: rb-k5-d1
+2021-03-31 08:46:39 PM Model Accuracy: 93.0900, Model infer time: 2.889162 ms, Model Parameters: 2.4639 MB, Model Flops: 1105.466000 MB
+
+2021-03-31 10:17:57 PM Training accuracy top1:99.9800, top5:100.0000, loss:0.001564
+2021-03-31 10:18:00 PM valid accuracy top1:91.4200, top5:99.6500, loss:0.395363
+2021-03-31 10:18:29 PM Model Name: rb-k5-d2
+2021-03-31 10:18:29 PM Model Accuracy: 91.6400, Model infer time: 2.778069 ms, Model Parameters: 2.4639 MB, Model Flops: 1105.466000 MB
+
+2021-03-31 11:52:17 PM Training accuracy top1:99.9680, top5:100.0000, loss:0.001943
+2021-03-31 11:52:20 PM valid accuracy top1:89.5800, top5:99.3700, loss:0.485248
+2021-03-31 11:52:48 PM Model Name: rb-k5-d3
+2021-03-31 11:52:48 PM Model Accuracy: 89.5800, Model infer time: 2.735899 ms, Model Parameters: 2.4639 MB, Model Flops: 1105.466000 MB
+
+2021-04-01 12:36:41 AM Training accuracy top1:99.6840, top5:100.0000, loss:0.015781
+2021-04-01 12:36:42 AM valid accuracy top1:92.5600, top5:99.7100, loss:0.274491
+2021-04-01 12:37:21 AM Model Name: Bottleneck-k3-d1
+2021-04-01 12:37:21 AM Model Accuracy: 92.6600, Model infer time: 3.778103 ms, Model Parameters: 0.5486 MB, Model Flops: 247.714400 MB
+
+2021-04-01 01:31:02 AM Training accuracy top1:99.9420, top5:100.0000, loss:0.005638
+2021-04-01 01:31:04 AM valid accuracy top1:93.6800, top5:99.7700, loss:0.249991
+2021-04-01 01:31:44 AM Model Name: Bottleneck-k3-d2
+2021-04-01 01:31:44 AM Model Accuracy: 93.7600, Model infer time: 3.911220 ms, Model Parameters: 1.0923 MB, Model Flops: 491.999900 MB
+
+2021-04-01 02:45:10 AM Training accuracy top1:99.9680, top5:100.0000, loss:0.003615
+2021-04-01 02:45:13 AM valid accuracy top1:93.8200, top5:99.8600, loss:0.243488
+2021-04-01 02:45:55 AM Model Name: Bottleneck-k3-d3
+2021-04-01 02:45:55 AM Model Accuracy: 93.8600, Model infer time: 4.085931 ms, Model Parameters: 1.6360 MB, Model Flops: 736.285300 MB
+
+2021-04-01 03:30:29 AM Training accuracy top1:99.9420, top5:100.0000, loss:0.004446
+2021-04-01 03:30:30 AM valid accuracy top1:92.9000, top5:99.6900, loss:0.302069
+2021-04-01 03:31:09 AM Model Name: Bottleneck-k5-d1
+2021-04-01 03:31:09 AM Model Accuracy: 93.0600, Model infer time: 3.753529 ms, Model Parameters: 1.3350 MB, Model Flops: 600.036000 MB
+
+2021-04-01 04:42:53 AM Training accuracy top1:99.9920, top5:100.0000, loss:0.002049
+2021-04-01 04:42:55 AM valid accuracy top1:93.7700, top5:99.7300, loss:0.265367
+2021-04-01 04:43:37 AM Model Name: Bottleneck-k5-d2
+2021-04-01 04:43:37 AM Model Accuracy: 93.9300, Model infer time: 3.994986 ms, Model Parameters: 2.6652 MB, Model Flops: 1196.642900 MB
+
+2021-04-01 06:23:57 AM Training accuracy top1:99.9920, top5:100.0000, loss:0.001524
+2021-04-01 06:24:00 AM valid accuracy top1:93.9600, top5:99.8100, loss:0.253855
+2021-04-01 06:24:42 AM Model Name: Bottleneck-k5-d3
+2021-04-01 06:24:42 AM Model Accuracy: 94.0600, Model infer time: 4.055719 ms, Model Parameters: 3.9953 MB, Model Flops: 1793.249900 MB
+
+2021-04-01 06:44:16 AM Training accuracy top1:96.1220, top5:99.9520, loss:0.116596
+2021-04-01 06:44:17 AM valid accuracy top1:89.8600, top5:99.6300, loss:0.337657
+2021-04-01 06:44:43 AM Model Name: irb-k3-d1-e1
+2021-04-01 06:44:43 AM Model Accuracy: 89.8800, Model infer time: 2.475872 ms, Model Parameters: 0.0616 MB, Model Flops: 28.889700 MB
+
+2021-04-01 07:34:54 AM Training accuracy top1:99.8880, top5:100.0000, loss:0.009155
+2021-04-01 07:34:56 AM valid accuracy top1:93.0000, top5:99.7200, loss:0.267759
+2021-04-01 07:35:32 AM Model Name: irb-k3-d1-e3
+2021-04-01 07:35:32 AM Model Accuracy: 93.1500, Model infer time: 3.484471 ms, Model Parameters: 0.3289 MB, Model Flops: 150.344300 MB
+
+2021-04-01 08:59:42 AM Training accuracy top1:99.9740, top5:100.0000, loss:0.004056
+2021-04-01 08:59:45 AM valid accuracy top1:93.6800, top5:99.7900, loss:0.253332
+2021-04-01 09:00:20 AM Model Name: irb-k3-d1-e6
+2021-04-01 09:00:20 AM Model Accuracy: 93.8400, Model infer time: 3.371602 ms, Model Parameters: 0.6538 MB, Model Flops: 297.947800 MB
+
+2021-04-01 09:19:44 AM Training accuracy top1:95.7380, top5:99.9620, loss:0.127409
+2021-04-01 09:19:45 AM valid accuracy top1:89.0100, top5:99.6000, loss:0.371829
+2021-04-01 09:20:11 AM Model Name: irb-k3-d2-e1
+2021-04-01 09:20:11 AM Model Accuracy: 89.2600, Model infer time: 2.483185 ms, Model Parameters: 0.0616 MB, Model Flops: 28.889700 MB
+
+2021-04-01 10:10:12 AM Training accuracy top1:99.8980, top5:100.0000, loss:0.006724
+2021-04-01 10:10:14 AM valid accuracy top1:92.5500, top5:99.6400, loss:0.311946
+2021-04-01 10:10:49 AM Model Name: irb-k3-d2-e3
+2021-04-01 10:10:49 AM Model Accuracy: 92.5500, Model infer time: 3.387581 ms, Model Parameters: 0.3289 MB, Model Flops: 150.344300 MB
+
+2021-04-01 11:34:41 AM Training accuracy top1:99.9760, top5:100.0000, loss:0.002580
+2021-04-01 11:34:44 AM valid accuracy top1:93.0600, top5:99.7200, loss:0.294851
+2021-04-01 11:35:19 AM Model Name: irb-k3-d2-e6
+2021-04-01 11:35:19 AM Model Accuracy: 93.1800, Model infer time: 3.436253 ms, Model Parameters: 0.6538 MB, Model Flops: 297.947800 MB
+
+2021-04-01 11:54:42 AM Training accuracy top1:94.4640, top5:99.9280, loss:0.159865
+2021-04-01 11:54:43 AM valid accuracy top1:88.2400, top5:99.4700, loss:0.394731
+2021-04-01 11:55:09 AM Model Name: irb-k3-d3-e1
+2021-04-01 11:55:09 AM Model Accuracy: 88.2400, Model infer time: 2.461836 ms, Model Parameters: 0.0616 MB, Model Flops: 28.889700 MB
+
+2021-04-01 12:45:08 PM Training accuracy top1:99.8980, top5:100.0000, loss:0.007418
+2021-04-01 12:45:10 PM valid accuracy top1:92.0000, top5:99.6700, loss:0.335783
+2021-04-01 12:45:45 PM Model Name: irb-k3-d3-e3
+2021-04-01 12:45:45 PM Model Accuracy: 92.0100, Model infer time: 3.411509 ms, Model Parameters: 0.3289 MB, Model Flops: 150.344300 MB
+
+2021-04-01 02:09:30 PM Training accuracy top1:99.9740, top5:100.0000, loss:0.002815
+2021-04-01 02:09:33 PM valid accuracy top1:92.1600, top5:99.7200, loss:0.324901
+2021-04-01 02:10:09 PM Model Name: irb-k3-d3-e6
+2021-04-01 02:10:09 PM Model Accuracy: 92.3400, Model infer time: 3.495301 ms, Model Parameters: 0.6538 MB, Model Flops: 297.947800 MB
+
+2021-04-01 02:32:59 PM Training accuracy top1:97.4980, top5:99.9820, loss:0.077098
+2021-04-01 02:33:00 PM valid accuracy top1:90.0300, top5:99.7000, loss:0.349593
+2021-04-01 02:33:25 PM Model Name: irb-k5-d1-e1
+2021-04-01 02:33:25 PM Model Accuracy: 90.2000, Model infer time: 2.445074 ms, Model Parameters: 0.0739 MB, Model Flops: 34.394800 MB
+
+2021-04-01 03:35:20 PM Training accuracy top1:99.9640, top5:100.0000, loss:0.003673
+2021-04-01 03:35:21 PM valid accuracy top1:93.1300, top5:99.8200, loss:0.287025
+2021-04-01 03:35:57 PM Model Name: irb-k5-d1-e3
+2021-04-01 03:35:57 PM Model Accuracy: 93.2900, Model infer time: 3.419365 ms, Model Parameters: 0.3658 MB, Model Flops: 166.859400 MB
+
+2021-04-01 05:23:52 PM Training accuracy top1:99.9880, top5:100.0000, loss:0.001950
+2021-04-01 05:23:56 PM valid accuracy top1:93.8700, top5:99.7500, loss:0.265199
+2021-04-01 05:24:31 PM Model Name: irb-k5-d1-e6
+2021-04-01 05:24:31 PM Model Accuracy: 93.9900, Model infer time: 3.440474 ms, Model Parameters: 0.7275 MB, Model Flops: 330.977900 MB
+
+2021-04-01 05:47:08 PM Training accuracy top1:96.2480, top5:99.9600, loss:0.109694
+2021-04-01 05:47:09 PM valid accuracy top1:88.4300, top5:99.5500, loss:0.413770
+2021-04-01 05:47:34 PM Model Name: irb-k5-d2-e1
+2021-04-01 05:47:34 PM Model Accuracy: 88.4300, Model infer time: 2.401266 ms, Model Parameters: 0.0739 MB, Model Flops: 34.394800 MB
+
+2021-04-01 06:48:39 PM Training accuracy top1:99.9280, top5:100.0000, loss:0.004455
+2021-04-01 06:48:41 PM valid accuracy top1:92.3600, top5:99.7500, loss:0.341752
+2021-04-01 06:49:17 PM Model Name: irb-k5-d2-e3
+2021-04-01 06:49:17 PM Model Accuracy: 92.3600, Model infer time: 3.512415 ms, Model Parameters: 0.3658 MB, Model Flops: 166.859400 MB
+
+2021-04-01 08:35:46 PM Training accuracy top1:99.9900, top5:100.0000, loss:0.001866
+2021-04-01 08:35:49 PM valid accuracy top1:92.8600, top5:99.6200, loss:0.304819
+2021-04-01 08:36:24 PM Model Name: irb-k5-d2-e6
+2021-04-01 08:36:24 PM Model Accuracy: 92.9100, Model infer time: 3.424269 ms, Model Parameters: 0.7275 MB, Model Flops: 330.977900 MB
+
+2021-04-01 08:58:54 PM Training accuracy top1:94.0480, top5:99.8940, loss:0.172149
+2021-04-01 08:58:54 PM valid accuracy top1:86.5800, top5:99.4600, loss:0.448972
+2021-04-01 08:59:20 PM Model Name: irb-k5-d3-e1
+2021-04-01 08:59:20 PM Model Accuracy: 86.6400, Model infer time: 2.471838 ms, Model Parameters: 0.0739 MB, Model Flops: 34.394800 MB
+
+2021-04-01 10:00:05 PM Training accuracy top1:99.8960, top5:100.0000, loss:0.006159
+2021-04-01 10:00:07 PM valid accuracy top1:91.3900, top5:99.6000, loss:0.349768
+2021-04-01 10:00:42 PM Model Name: irb-k5-d3-e3
+2021-04-01 10:00:42 PM Model Accuracy: 91.5000, Model infer time: 3.460810 ms, Model Parameters: 0.3658 MB, Model Flops: 166.859400 MB
+
+2021-04-01 11:46:11 PM Training accuracy top1:99.9780, top5:100.0000, loss:0.002400
+2021-04-01 11:46:15 PM valid accuracy top1:91.8300, top5:99.6500, loss:0.356294
+2021-04-01 11:46:50 PM Model Name: irb-k5-d3-e6
+2021-04-01 11:46:50 PM Model Accuracy: 91.9300, Model infer time: 3.456900 ms, Model Parameters: 0.7275 MB, Model Flops: 330.977900 MB
+
+2021-04-02 12:10:09 AM Training accuracy top1:86.9940, top5:99.6560, loss:0.371700
+2021-04-02 12:10:10 AM valid accuracy top1:83.8000, top5:99.3400, loss:0.481300
+2021-04-02 12:10:21 AM Model Name: LBC-k3-d1
+2021-04-02 12:10:21 AM Model Accuracy: 83.8900, Model infer time: 0.923179 ms, Model Parameters: 0.4449 MB, Model Flops: 200.233600 MB
+
+2021-04-02 12:25:40 AM Training accuracy top1:84.9600, top5:99.3480, loss:0.436445
+2021-04-02 12:25:40 AM valid accuracy top1:82.8200, top5:99.1900, loss:0.514629
+2021-04-02 12:25:51 AM Model Name: LBC-k3-d2
+2021-04-02 12:25:51 AM Model Accuracy: 82.8500, Model infer time: 0.906441 ms, Model Parameters: 0.4449 MB, Model Flops: 200.233600 MB
+
+2021-04-02 12:44:09 AM Training accuracy top1:84.7300, top5:99.3740, loss:0.439936
+2021-04-02 12:44:10 AM valid accuracy top1:82.1200, top5:99.1900, loss:0.522863
+2021-04-02 12:44:21 AM Model Name: LBC-k3-d3
+2021-04-02 12:44:21 AM Model Accuracy: 82.2600, Model infer time: 0.923219 ms, Model Parameters: 0.4449 MB, Model Flops: 200.233600 MB
+
+2021-04-02 01:08:35 AM Training accuracy top1:89.7980, top5:99.7500, loss:0.293359
+2021-04-02 01:08:36 AM valid accuracy top1:84.7900, top5:99.3300, loss:0.482970
+2021-04-02 01:08:46 AM Model Name: LBC-k5-d1
+2021-04-02 01:08:46 AM Model Accuracy: 84.7900, Model infer time: 0.907936 ms, Model Parameters: 1.2313 MB, Model Flops: 552.555100 MB
+
+2021-04-02 01:52:07 AM Training accuracy top1:85.4940, top5:99.4940, loss:0.414648
+2021-04-02 01:52:08 AM valid accuracy top1:81.6500, top5:98.9400, loss:0.552869
+2021-04-02 01:52:19 AM Model Name: LBC-k5-d2
+2021-04-02 01:52:19 AM Model Accuracy: 81.7300, Model infer time: 0.852354 ms, Model Parameters: 1.2313 MB, Model Flops: 552.555100 MB
+
+2021-04-02 02:36:57 AM Training accuracy top1:85.8280, top5:99.4800, loss:0.407345
+2021-04-02 02:36:58 AM valid accuracy top1:81.6900, top5:99.1200, loss:0.528580
+2021-04-02 02:37:10 AM Model Name: LBC-k5-d3
+2021-04-02 02:37:10 AM Model Accuracy: 81.8400, Model infer time: 0.892793 ms, Model Parameters: 1.2313 MB, Model Flops: 552.555100 MB
+
+2021-04-02 02:37:10 AM Model_name	Accuracy(%)	Inference_time(ms)	Parameters(MB)	FLOPs(MB)
+2021-04-02 02:37:10 AM RCB-k3		92.629997		1.587556		0.4464		201.265800
+2021-04-02 02:37:10 AM RCB-k5		92.349998		1.571067		1.2328		553.587300
+2021-04-02 02:37:10 AM RCB-k1*3+3*1		92.079994		2.488203		0.3005		136.237700
+2021-04-02 02:37:10 AM RCB-k1*5+5*1		92.169998		2.679148		0.4971		224.318100
+2021-04-02 02:37:10 AM CBR-k3		92.829994		1.571928		0.4464		201.265800
+2021-04-02 02:37:10 AM CBR-k5		92.180000		1.556463		1.2328		553.587300
+2021-04-02 02:37:10 AM CBR-k1*3+3*1		91.659996		2.477310		0.3005		136.237700
+2021-04-02 02:37:10 AM CBR-k1*5+5*1		92.389999		2.684775		0.4971		224.318100
+2021-04-02 02:37:10 AM DilRCB-k3-d2		91.739998		1.648560		0.4464		201.265800
+2021-04-02 02:37:10 AM DilRCB-k3-d3		90.119995		1.592817		0.4464		201.265800
+2021-04-02 02:37:10 AM DilRCB-k5-d2		90.750000		1.627740		1.2328		553.587300
+2021-04-02 02:37:10 AM DilRCB-k5-d3		88.889999		1.589516		1.2328		553.587300
+2021-04-02 02:37:10 AM DilCBR-k3-d2		91.720001		1.605472		0.4464		201.265800
+2021-04-02 02:37:10 AM DilCBR-k3-d3		90.079994		1.599232		0.4464		201.265800
+2021-04-02 02:37:10 AM DilCBR-k5-d2		90.759995		1.555020		1.2328		553.587300
+2021-04-02 02:37:10 AM DilCBR-k5-d3		88.739998		1.610422		1.2328		553.587300
+2021-04-02 02:37:10 AM SepRCB-k3-d1		90.199997		2.591849		0.0632		29.921900
+2021-04-02 02:37:10 AM SepRCB-k3-d2		88.589996		2.568863		0.0632		29.921900
+2021-04-02 02:37:10 AM SepRCB-k3-d3		87.739998		2.619173		0.0632		29.921900
+2021-04-02 02:37:10 AM SepRCB-k5-d1		90.299995		2.554653		0.0755		35.426900
+2021-04-02 02:37:10 AM SepRCB-k5-d2		87.680000		2.574758		0.0755		35.426900
+2021-04-02 02:37:10 AM SepRCB-k5-d3		86.349998		2.658418		0.0755		35.426900
+2021-04-02 02:37:10 AM SepCBR-k3-d1		89.900002		2.609681		0.0632		29.921900
+2021-04-02 02:37:10 AM SepCBR-k3-d2		88.470001		2.584020		0.0632		29.921900
+2021-04-02 02:37:10 AM SepCBR-k3-d3		87.860001		2.584713		0.0632		29.921900
+2021-04-02 02:37:10 AM SepCBR-k5-d1		90.129997		2.624738		0.0755		35.426900
+2021-04-02 02:37:10 AM SepCBR-k5-d2		88.099998		2.537942		0.0755		35.426900
+2021-04-02 02:37:10 AM SepCBR-k5-d3		86.680000		2.591658		0.0755		35.426900
+2021-04-02 02:37:10 AM DARTs-Dil-k3-d2		88.400002		1.807488		0.0601		28.201600
+2021-04-02 02:37:10 AM DARTs-Dil-k3-d3		87.629997		1.828940		0.0601		28.201600
+2021-04-02 02:37:10 AM DARTs-Dil-k5-d2		87.540001		1.853843		0.0724		33.706600
+2021-04-02 02:37:10 AM DARTs-Dil-k5-d3		85.949997		1.804799		0.0724		33.706600
+2021-04-02 02:37:10 AM DARTs-Sep-k3-d1		90.899994		3.204609		0.1177		54.350500
+2021-04-02 02:37:10 AM DARTs-Sep-k3-d2		90.409996		3.177247		0.1177		54.350500
+2021-04-02 02:37:10 AM DARTs-Sep-k3-d3		89.919998		3.111740		0.1177		54.350500
+2021-04-02 02:37:10 AM DARTs-Sep-k5-d1		90.479996		3.097760		0.1423		65.360500
+2021-04-02 02:37:10 AM DARTs-Sep-k5-d2		89.209999		3.105113		0.1423		65.360500
+2021-04-02 02:37:10 AM DARTs-Sep-k5-d3		87.900002		3.164541		0.1423		65.360500
+2021-04-02 02:37:10 AM rb-k3-d1		93.519997		2.872318		0.8911		400.822900
+2021-04-02 02:37:10 AM rb-k3-d2		92.610001		2.756681		0.8911		400.822900
+2021-04-02 02:37:10 AM rb-k3-d3		91.199997		2.776830		0.8911		400.822900
+2021-04-02 02:37:10 AM rb-k3-d12		92.899994		2.822647		0.8911		400.822900
+2021-04-02 02:37:10 AM rb-k3-d21		92.849998		2.854257		0.8911		400.822900
+2021-04-02 02:37:10 AM rb-k5-d1		93.089996		2.889162		2.4639		1105.466000
+2021-04-02 02:37:10 AM rb-k5-d2		91.639999		2.778069		2.4639		1105.466000
+2021-04-02 02:37:10 AM rb-k5-d3		89.579994		2.735899		2.4639		1105.466000
+2021-04-02 02:37:10 AM Bottleneck-k3-d1		92.659996		3.778103		0.5486		247.714400
+2021-04-02 02:37:10 AM Bottleneck-k3-d2		93.759995		3.911220		1.0923		491.999900
+2021-04-02 02:37:10 AM Bottleneck-k3-d3		93.860001		4.085931		1.6360		736.285300
+2021-04-02 02:37:10 AM Bottleneck-k5-d1		93.059998		3.753529		1.3350		600.036000
+2021-04-02 02:37:10 AM Bottleneck-k5-d2		93.930000		3.994986		2.6652		1196.642900
+2021-04-02 02:37:10 AM Bottleneck-k5-d3		94.059998		4.055719		3.9953		1793.249900
+2021-04-02 02:37:10 AM irb-k3-d1-e1		89.879997		2.475872		0.0616		28.889700
+2021-04-02 02:37:10 AM irb-k3-d1-e3		93.149994		3.484471		0.3289		150.344300
+2021-04-02 02:37:10 AM irb-k3-d1-e6		93.839996		3.371602		0.6538		297.947800
+2021-04-02 02:37:10 AM irb-k3-d2-e1		89.259995		2.483185		0.0616		28.889700
+2021-04-02 02:37:10 AM irb-k3-d2-e3		92.549995		3.387581		0.3289		150.344300
+2021-04-02 02:37:10 AM irb-k3-d2-e6		93.180000		3.436253		0.6538		297.947800
+2021-04-02 02:37:10 AM irb-k3-d3-e1		88.239998		2.461836		0.0616		28.889700
+2021-04-02 02:37:10 AM irb-k3-d3-e3		92.009995		3.411509		0.3289		150.344300
+2021-04-02 02:37:10 AM irb-k3-d3-e6		92.339996		3.495301		0.6538		297.947800
+2021-04-02 02:37:10 AM irb-k5-d1-e1		90.199997		2.445074		0.0739		34.394800
+2021-04-02 02:37:10 AM irb-k5-d1-e3		93.290001		3.419365		0.3658		166.859400
+2021-04-02 02:37:10 AM irb-k5-d1-e6		93.989998		3.440474		0.7275		330.977900
+2021-04-02 02:37:10 AM irb-k5-d2-e1		88.430000		2.401266		0.0739		34.394800
+2021-04-02 02:37:10 AM irb-k5-d2-e3		92.360001		3.512415		0.3658		166.859400
+2021-04-02 02:37:10 AM irb-k5-d2-e6		92.909996		3.424269		0.7275		330.977900
+2021-04-02 02:37:10 AM irb-k5-d3-e1		86.639999		2.471838		0.0739		34.394800
+2021-04-02 02:37:10 AM irb-k5-d3-e3		91.500000		3.460810		0.3658		166.859400
+2021-04-02 02:37:10 AM irb-k5-d3-e6		91.930000		3.456900		0.7275		330.977900
+2021-04-02 02:37:10 AM LBC-k3-d1		83.889999		0.923179		0.4449		200.233600
+2021-04-02 02:37:10 AM LBC-k3-d2		82.849998		0.906441		0.4449		200.233600
+2021-04-02 02:37:10 AM LBC-k3-d3		82.259995		0.923219		0.4449		200.233600
+2021-04-02 02:37:10 AM LBC-k5-d1		84.790001		0.907936		1.2313		552.555100
+2021-04-02 02:37:10 AM LBC-k5-d2		81.729996		0.852354		1.2313		552.555100
+2021-04-02 02:37:10 AM LBC-k5-d3		81.839996		0.892793		1.2313		552.555100
